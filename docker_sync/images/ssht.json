@@ -1,0 +1,11 @@
+{
+  "src": "qiyutech/ssht",
+  "dst": [
+    "registry.cn-hangzhou.aliyuncs.com/qiyutech/ssht",
+    "ghcr.io/qiyutechdev/ssht"
+  ],
+  "tag": [
+    "v0.1.0",
+    "v0.1.1"
+  ]
+}
