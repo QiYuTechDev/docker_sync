@@ -1,0 +1,10 @@
+{
+  "src": "qiyutech/verify",
+  "dst": [
+    "registry.cn-hangzhou.aliyuncs.com/qiyutech/verify",
+    "ghcr.io/qiyutechdev/verify"
+  ],
+  "tag": [
+    "579"
+  ]
+}
